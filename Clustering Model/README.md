@@ -57,10 +57,10 @@ We implemented **K-Means clustering** for unsupervised learning to:
 ## 📊 Results & Visualizations  
 
 ### 📈 Elbow Method  
- 
+ ![ELbow Method](Clustering Model/Elbow_method.png)
 
 ### 🖼️ Cluster Visualization (PCA 2D Projection)  
-*(Insert scatter plot of clusters here)*  
+![PCA](Clustering Model/PCA_visualization.png)
 
 ---
 
