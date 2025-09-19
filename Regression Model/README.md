@@ -19,20 +19,6 @@ Predicting house prices accurately is crucial for real estate businesses, buyers
 
 ---
 
-## 📖 Table of Contents  
-
-1. [Project Overview](#project-overview)  
-2. [Data Understanding](#data-understanding)  
-3. [Data Preparation](#data-preparation)  
-4. [Modeling](#modeling)  
-5. [Results & Comparisons](#results--comparisons)  
-6. [Insights Derived](#insights-derived)  
-7. [Challenges Faced](#challenges-faced)  
-8. [Future Scope](#future-scope)  
-9. [Final Outcome](#final-outcome)  
-
----
-
 ## 🧩 Project Overview  
 
 We implemented machine learning regression models to:  
@@ -56,7 +42,7 @@ We implemented machine learning regression models to:
 
 - Removed missing/duplicate values.  
 - Feature scaling and encoding categorical variables.  
-- Split dataset into **70% training** and **30% testing** sets.  
+- Split dataset into **80% training** and **20% testing** sets.  
 
 ---
 
