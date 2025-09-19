@@ -19,20 +19,6 @@ Accurate classification is critical for decision-making in domains like healthca
 
 ---
 
-## 📖 Table of Contents  
-
-1. [Project Overview](#project-overview)  
-2. [Data Understanding](#data-understanding)  
-3. [Data Preparation](#data-preparation)  
-4. [Modeling](#modeling)  
-5. [Results & Comparisons](#results--comparisons)  
-6. [Insights Derived](#insights-derived)  
-7. [Challenges Faced](#challenges-faced)  
-8. [Future Scope](#future-scope)  
-9. [Final Outcome](#final-outcome)  
-
----
-
 ## 🧩 Project Overview  
 
 We implemented classification models to:  
@@ -44,10 +30,10 @@ We implemented classification models to:
 
 ## 🧾 Data Understanding  
 
-- Dataset contains:  
-  - Numerical and categorical features.  
-  - Target variable: **Binary categorical outcome** (0/1).  
-- Goal: Predict whether a sample belongs to **Class 0** or **Class 1**.  
+- Dataset contains:
+  - Numerical and categorical features.
+  - Target variable: Categorical outcome with 3 classes (Class 0, Class 1, Class 2).
+- Goal: Predict whether a sample belongs to Class 0, Class 1, or Class 2.
 
 ---
 
@@ -55,7 +41,7 @@ We implemented classification models to:
 
 - Handled missing values and categorical encoding.  
 - Applied feature scaling for Logistic Regression.  
-- Split dataset into **Training (70%)** and **Testing (30%)** sets.  
+- Split dataset into **Training (80%)** and **Testing (20%)** sets.  
 
 ---
 
